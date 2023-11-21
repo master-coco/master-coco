@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **internships and projects**
 
-- 👨‍💻 All of my projects are available on ([my linkedin](https://www.linkedin.com/in/somethingarjun/))
+- 👨‍💻 All of my projects are available on [my linkedin](https://www.linkedin.com/in/somethingarjun/)
 
 - 🤑You can support me by donating @ [paypal.me/coolarjun](paypal.me/coolarjun)
 
