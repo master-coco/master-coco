@@ -9,9 +9,9 @@
 
 - 🤝 I’m looking for help with **internships and projects**
 
-- 👨‍💻 All of my projects are available on my GitHub [github.com/master-coco](github.com/master-coco)
+- 👨‍💻 All of my projects are available on my GitHub [github.com/master-coco]
 
-- 🤑You can support me by donating @ [paypal.me/coolarjun](paypal.me/coolarjun)
+- 🤑You can support me by donating @ [paypal.me/coolarjun]
 
 - 📫 Email me @ **krishbhardwaj18@gmail.com**
 
