@@ -9,11 +9,11 @@
 
 - 🤝 I’m looking for help with **internships and projects**
 
-- 👨‍💻 All of my projects are available on my GitHub(https://github.com/master-coco)
+- 👨‍💻 All of my projects are available on my GitHub [github.com/master-coco](github.com/master-coco)
 
 - 🤑You can support me by donating @ [paypal.me/coolarjun](paypal.me/coolarjun)
 
-- 📫 How to reach me **krishbhardwaj18@gmail.com**
+- 📫 Email me @ **krishbhardwaj18@gmail.com**
 
 - 📄 Know about my experiences [by flipping a coin and expecting it to land on its side](by flipping a coin and expecting it to land on its side)
 
