@@ -1,4 +1,4 @@
-<h1 align="center">Hello there... 👋, I'm Arjun</h1>
+<h1 align="center">Hi 👋, I'm Arjun</h1>
 <h3 align="center">A passionate full stack developer student from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=master-coco" alt="master-coco" /></a> </p>
@@ -9,11 +9,11 @@
 
 - 🤝 I’m looking for help with **internships and projects**
 
-- 👨‍💻 All of my projects are available on my GitHub [github.com/master-coco]
+- 👨‍💻 All of my projects are available on [https://github.com/master-coco](https://github.com/master-coco)
 
-- 🤑You can support me by donating @ [paypal.me/coolarjun]
+- 🤑You can support me by donating @ [paypal.me/coolarjun](paypal.me/coolarjun)
 
-- 📫 Email me @ **krishbhardwaj18@gmail.com**
+- 📫 How to reach me **krishbhardwaj18@gmail.com**
 
 - 📄 Know about my experiences [by flipping a coin and expecting it to land on its side](by flipping a coin and expecting it to land on its side)
 
