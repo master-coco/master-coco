@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **internships and projects**
 
-- 👨‍💻 All of my projects are available on [https://github.com/master-coco](https://github.com/master-coco)
+- 👨‍💻 All of my projects are available on [https://github.com/master-coco](https://github.com/master-coco?tab=repositories)
 
 - 🤑You can support me by donating @ [https://paypal.me/coolarjun](https://paypal.me/coolarjun)
 
