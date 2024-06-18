@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **completing my degree in Computer Science Engineering**
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m learning **Full Stack Development**
 
 - 🤝 I’m looking for help with **internships and projects**
 
