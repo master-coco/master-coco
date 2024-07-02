@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **krishbhardwaj18@gmail.com**
 
-- 📄 Know about my experiences by flipping a coin and expecting it to land on its side cus I have none :(
+- 📄 Know about my experiences by checking my resume
 
 - ⚡ Fun fact **I'm a scholar and a gentleman**
 
