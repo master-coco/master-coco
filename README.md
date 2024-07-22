@@ -38,3 +38,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=master-coco&show_icons=true&locale=en&layout=compact" alt="master-coco" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=master-coco&show_icons=true&locale=en" alt="master-coco" /></p>
+
+[![An image of @mastercoco's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mastercoco)](https://holopin.io/@mastercoco)
