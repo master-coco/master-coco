@@ -19,6 +19,10 @@
 
 - ⚡ Fun fact **I'm a scholar and a gentleman**
 
+
+[![An image of @mastercoco's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mastercoco)](https://holopin.io/@mastercoco)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/master_coco18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="master_coco18" height="30" width="40" /></a>
@@ -39,4 +43,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=master-coco&show_icons=true&locale=en" alt="master-coco" /></p>
 
-[![An image of @mastercoco's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mastercoco)](https://holopin.io/@mastercoco)
