@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **internships and projects**
 
-- 👨‍💻 All of my projects are available on [https://github.com/master-coco?tab=repositories](https://github.com/master-coco?tab=repositories)
+- 👨‍💻 My public projects are available in [my repositories](https://github.com/master-coco?tab=repositories)
 
 - 🤑You can support me by donating @ [https://paypal.me/coolarjun](https://paypal.me/coolarjun)
 
@@ -19,6 +19,7 @@
 
 - ⚡ Fun fact **I'm a scholar and a gentleman**
 
+##
 
 [![An image of @mastercoco's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mastercoco)](https://holopin.io/@mastercoco)
 
