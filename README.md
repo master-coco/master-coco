@@ -11,7 +11,7 @@
 
 - 👨‍💻 My public projects are available in [my repositories](https://github.com/master-coco?tab=repositories)
 
-- 🤑You can support me by donating @ [https://paypal.me/coolarjun](https://paypal.me/coolarjun)
+- 🤑You can support me by donating @ [my paypal :)](https://paypal.me/coolarjun)
 
 - 📫 How to reach me **krishbhardwaj18@gmail.com**
 
