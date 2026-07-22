@@ -1,7 +1,7 @@
 <h1 align="center">Hello there... 🤗, I'm Arjun</h1>
 <h3 align="center">A passionate full stack developer student from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=master-coco" alt="master-coco" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=master-coco" alt="master-coco" /></a> </p> -->
 
 - 🔭 I’m currently working on **completing my degree in Computer Science Engineering**
 
