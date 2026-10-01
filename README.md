@@ -7,13 +7,13 @@
 
 - 🌱 I’m learning **Full Stack Development**
 
-- 🤝 I’m looking for help with **internships and projects**
+- 🤝 I’m working as a **Project Management Apprentice** at Google
 
 - 👨‍💻 My public projects are available in [my repositories](https://github.com/master-coco?tab=repositories)
 
 - 🤑You can support me by donating @ [my paypal :)](https://paypal.me/coolarjun)
 
-- 📫 How to reach me **krishbhardwaj18@gmail.com**
+- 📫 How to reach me **arjun.bhard18@gmail.com**
 
 - 📄 Know about my experiences by checking my resume and portfolio
 
