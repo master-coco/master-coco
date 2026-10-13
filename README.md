@@ -3,9 +3,9 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=master-coco" alt="master-coco" /></a> </p> -->
 
-- 🔭 I’ve **completing my degree in Computer Science Engineering**
+- 🔭 I’ve **completed my degree in Computer Science Engineering**
 
-- 🌱 I’m majored in **Full Stack Development** and minored in **Project Management**
+- 🌱 I’ve majored in **Full Stack Development** and minored in **Project Management**
 
 - 🤝 I’m working as a **Project Management Apprentice** at Google
 
