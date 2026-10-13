@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences by checking my resume and portfolio
 
-- ⚡ Fun fact **I'm a scholar and a gentleman**
+- ⚡ Fun fact **I'm an expert at not waiting to become an expert :)**
 
 ##
 
