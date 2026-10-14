@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-labelledby="title">
+<title id="title">X (Twitter)</title>
+<defs><style></style>
+<linearGradient id="b" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#4a4a4a"/><stop offset="0.55" stop-color="#404040" stop-opacity="0"/>
+</linearGradient></defs>
+<rect x="0.5" y="0.5" width="47" height="47" rx="13" fill="#202022" stroke="url(#b)"/><svg x="14.0" y="14.0" width="20" height="20" viewBox="0 0 24 24" fill="#ffdb70" color="#ffdb70"><path d="M14.234 10.162 22.977 0h-2.072l-7.591 8.824L7.251 0H.258l9.168 13.343L.258 24H2.33l8.016-9.318L16.749 24h6.993zm-2.837 3.299-.929-1.329L3.076 1.56h3.182l5.965 8.532.929 1.329 7.754 11.09h-3.182z"/></svg>
+</svg>
