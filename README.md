@@ -1,49 +1,148 @@
-<h1 align="center">Hello there... 🤗, I'm Arjun</h1>
-<h3 align="center">A passionate project manager and full stack developer from India</h3>
+<!-- Profile README for github.com/master-coco, styled after https://somethingarjun-portfolio.vercel.app -->
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=master-coco" alt="master-coco" /></a> </p> -->
-
-- 🔭 I’ve **completed my degree in Computer Science Engineering**
-
-- 🌱 I’ve majored in **Full Stack Development** and minored in **Project Management**
-
-- 🤝 I’m working as a **Project Management Apprentice** at Google
-
-- 👨‍💻 My public projects are available in [my repositories](https://github.com/master-coco?tab=repositories)
-
-- 🤑You can support me by donating @ [my paypal :)](https://paypal.me/coolarjun)
-
-- 📫 How to reach me **arjun.bhard18@gmail.com**
-
-- 📄 Know about my experiences by checking my resume and portfolio
-
-- ⚡ Fun fact **I'm an expert at not waiting to become an expert :)**
-
-##
-
-[![An image of @mastercoco's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mastercoco)](https://holopin.io/@mastercoco)
-
-#
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/master_coco18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="master_coco18" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/somethingarjun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="somethingarjun" height="30" width="40" /></a>
-<a href="https://kaggle.com/somethingarjun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="somethingarjun" height="30" width="40" /></a>
-<a href="https://instagram.com/somethingarjun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="somethingarjun" height="30" width="40" /></a>
-<a href="https://www.behance.net/arjunbhardwaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="arjunbhardwaj" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/arjunbhardwaj5024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="arjunbhardwaj5024" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/arjun_bhardwaj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="arjun_bhardwaj" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/arjun_bhardwaj18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arjun_bhardwaj18/" height="30" width="40" /></a>
-<a href="https://discord.gg/somethingarjun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="somethingarjun" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://somethingarjun-portfolio.vercel.app/">
+    <img src="assets/banner.svg" width="100%" alt="Arjun Bhardwaj | Project Manager &amp; Full Stack Developer | Project Management Apprentice at Google, part of YouTube Trust &amp; Safety (GVO) | NorthCap University ’25 and UNF ’24 alumni">
+  </a>
 </p>
 
-#
+<p align="center">
+  <a href="https://somethingarjun-portfolio.vercel.app/"><img src="assets/btn-portfolio.svg" height="44" alt="Portfolio"></a>
+  <a href="https://somethingarjun-portfolio.vercel.app/#resume"><img src="assets/btn-resume.svg" height="44" alt="Resume"></a>
+  <a href="https://www.linkedin.com/in/somethingarjun"><img src="assets/btn-linkedin.svg" height="44" alt="LinkedIn"></a>
+  <a href="mailto:arjun.bhard18@gmail.com"><img src="assets/btn-email.svg" height="44" alt="Email"></a>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+## 👋 Hello there... 🤗, I'm Arjun
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=master-coco&show_icons=true&locale=en&layout=compact" alt="master-coco" /></p>
+A passionate project manager and full stack developer from India. As a Computer Science graduate specializing in **Full Stack Development**, with a strong foundation in **Project Management / TPgM**, I combine hands-on experience in scalable application development with a passion for building efficient, user-friendly platforms. My curiosity and leadership mindset drive me to turn complex ideas into robust, impactful solutions, whether it's leading a tech team or managing projects.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=master-coco&show_icons=true&locale=en" alt="master-coco" /></p>
+- 🤝 I'm working as a **Project Management Apprentice** at **Google**
+- 🎓 I've **completed my degree in Computer Science Engineering**
+- 🌱 I've majored in **Full Stack Development** and minored in **Project Management**
+- 👨‍💻 My public projects are available in [my repositories](https://github.com/master-coco?tab=repositories)
+- 📫 How to reach me: **arjun.bhard18@gmail.com**
+- 📄 Know about my experiences by checking my [resume](https://somethingarjun-portfolio.vercel.app/#resume) and [portfolio](https://somethingarjun-portfolio.vercel.app/#portfolio)
+- ⚡ Fun fact: **I'm an expert at not waiting to become an expert :)**
 
+## 🚀 What I'm doing
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎯 Project Management Apprentice at Google</h3>
+      Part of the <b>YouTube Trust &amp; Safety</b> team under the <b>Global Vendor Operations (GVO)</b> organization, working on the YT-OOPS escalations team: driving cross-functional program execution, escalation management, vendor operations governance, SLA tracking and operational analytics dashboards.
+    </td>
+    <td width="50%" valign="top">
+      <h3>💻 Coding</h3>
+      With AI agents writing most of the code these days, I'm honestly not the best coder myself anymore, but the invention of the calculator didn't remove the need for the mathematician. I'm still big into solving DSA questions and forming the logic behind the solutions, with <b>950+ day LeetCode</b> and <b>1,100+ day CodeChef</b> streaks going strong.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎙️ Anchoring and Event Coordination</h3>
+      Recorded a video for the <b>G20 conference</b> on Crime and Security in the age of AI, NFTs and Metaverse, and hosted and anchored <b>10+ campus events</b> at The NorthCap University as part of the Student Activities &amp; Leadership Cell.
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 Currently Learning</h3>
+      Preparing for the <b>Project Management Professional (PMP)®</b> and <b>Certified Associate in Project Management (CAPM)®</b> exams and the <b>Certified Six Sigma Green Belt</b>, while taking part in the <b>McKinsey Forward Program</b>, and getting sharper at SQL and dashboards along the way.
+    </td>
+  </tr>
+</table>
+
+## 📊 Coding & Open-Source Stats
+
+<p align="center">
+  <a href="https://somethingarjun-portfolio.vercel.app/#about"><img src="assets/coding-kpis.svg" width="100%" alt="LeetCode and CodeChef streaks, total problems solved and public repositories"></a>
+</p>
+<p align="center">
+  <a href="https://leetcode.com/u/somethingarjun/"><img src="assets/coding-leetcode.svg" width="49%" alt="LeetCode stats for @somethingarjun"></a>
+  <a href="https://www.codechef.com/users/arjun_bhardwaj"><img src="assets/coding-codechef.svg" width="49%" alt="CodeChef stats for @arjun_bhardwaj"></a>
+</p>
+<p align="center"><sub>🟢 Live profile sync: these cards refresh every day from LeetCode and CodeChef</sub></p>
+
+## 🛠️ Featured Projects
+
+<p align="center">
+  <a href="https://github.com/master-coco/Major-Project-CSD402-"><img src="assets/project-cloudara.svg" width="49%" alt="Cloudara: full-stack cloud deployment platform (Final Year Capstone, CSD402)"></a>
+  <a href="https://somethingarjun-portfolio.vercel.app/"><img src="assets/project-portfolio.svg" width="49%" alt="Personal Portfolio Website"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/master-coco/CEN4010"><img src="assets/project-lego.svg" width="49%" alt="LEGO Inventory Management System (UNF CEN4010)"></a>
+  <a href="https://lnkd.in/p/dcrNjufc"><img src="assets/project-resumepulse.svg" width="49%" alt="ResumePulse: AI resume builder and ATS evaluator (Danalitics)"></a>
+</p>
+
+<details>
+<summary><b>More projects and coursework</b></summary>
+<br>
+
+| Project | What it is | Links |
+| --- | --- | --- |
+| **AI & Machine Learning (CSL236)** | 13 end-to-end ML experiments in Python: preprocessing, encoding, feature selection, PCA, regression, KNN, Naive Bayes, SVM and decision trees | [Repo](https://github.com/master-coco/IAIML) |
+| **Operating Systems (CSL303)** | CPU scheduling (FCFS, SJF, Priority, Round Robin), synchronization, Banker's algorithm, memory allocation and page replacement in Java | [Repo](https://github.com/master-coco/OperatingSystemPracticals) |
+| **Expense Tracking REST API & NoSQL** | CRUD and aggregation API with Node.js, Express, Mongoose and MongoDB Atlas, tested in Postman, plus mongosh schema, indexing and aggregation work | [API](https://github.com/master-coco/expense-tracking-API-project) • [nsdb](https://github.com/master-coco/nsdb) |
+| **Web Framework clones** | Responsive front-end builds for the Web Frameworks course | [Flipkart](https://master-coco.github.io/FlipkartClone/) • [HealthKart](https://master-coco.github.io/HealthKartClone/) • [Iconic India](https://master-coco.github.io/IconicIndiaClone/) • [GFG Sign-In](https://master-coco.github.io/GFGSignIn/) |
+| **Statistics with Python (CSL530)** | Data visualization, descriptive statistics, probability and distributions, plus an end-to-end analysis project | [Repo](https://github.com/master-coco/CSL530-STATISTICS-WITH-PYTHON) |
+| **Notice Board Management System** | My first Java project: a menu-driven CLI app with login and sign-up flows | [Repo](https://github.com/master-coco/FundamentalsOfComputerProgramming) |
+
+</details>
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <a href="https://somethingarjun-portfolio.vercel.app/#resume"><img src="assets/skills.svg" width="100%" alt="Skills: Java, C/C++, Python, Bash, HTML5, CSS3, JavaScript, jQuery, Node.js, Express.js, Bootstrap, React, Figma, MySQL, MongoDB, Firebase, Git/GitHub, Microsoft Office, Power BI, Postman, Docker, AWS, GCP"></a>
+</p>
+
+## 🏅 Certifications
+
+<p align="center">
+  <a href="https://somethingarjun-portfolio.vercel.app/#resume"><img src="assets/certs.svg" width="100%" alt="13 certifications, including AWS Academy, IBM SkillsBuild and four UNF Agile certificates, plus PMP, CAPM, Six Sigma Green Belt and McKinsey Forward in progress"></a>
+</p>
+
+<details>
+<summary><b>Verify my credentials</b></summary>
+<br>
+
+- **AWS Academy Graduate - Machine Learning Foundations** · [Credly](https://www.credly.com/badges/84a6df1a-a753-425f-ad43-784163a9fc2c/public_url)
+- **AWS Academy Graduate - Cloud Foundations** · [Credly](https://www.credly.com/badges/6864308d-e00e-4b4b-9300-cdda369ba994/public_url)
+- **AWS Academy Graduate - Cloud Developing** · [Credly](https://www.credly.com/badges/770af4fc-f1b4-4caf-ab41-57a9cb4874c9/public_url)
+- **Project Management Fundamentals** (IBM SkillsBuild) · [Credly](https://www.credly.com/badges/67f7e45f-8695-4582-8454-fb9b03afc24b/public_url)
+- **Agile Certifications ×4** (University of North Florida) · [LinkedIn post](https://lnkd.in/p/dSZvSZrs)
+- **High-Performance Leadership: Lessons from Formula 1®** (Santander Open Academy) · [LinkedIn post](https://lnkd.in/p/dAxBS9Rs)
+- **ASU Certificate of Innovation** (Arizona State University) · [Credential](https://www.virtualbadge.io/certificate-validator?credential=550a8c76-918b-43a1-9a11-94dd9e37c43c)
+- **Certificate Course on Data Analytics** (ICT Academy, with Honeywell) · [LinkedIn post](https://lnkd.in/p/d-BNhE-x)
+- **Database Foundations** (Oracle Academy) · [LinkedIn post](https://lnkd.in/p/dt3zZsNX)
+- **Competitive Programming Training and Certification** (The NorthCap University × CodeChef) · [LinkedIn post](https://lnkd.in/p/dMxw2ip3)
+- **Being Competent in Linux** (TryHackMe) · [Credential](https://certx.in/certificate/0270772f-3809-4400-b29b-1e1c61cd09971164639)
+- **Ethical Hacking Essentials (EHE)** (EC-Council CodeRed) · [LinkedIn post](https://lnkd.in/p/dCUryf6v)
+- **English Proficiency Certificate** (Duolingo English Test) · [LinkedIn post](https://lnkd.in/p/dCEU2xXi)
+
+</details>
+
+## 🎖️ Holopin Badges
+
+<p align="center">
+  <a href="https://holopin.io/@mastercoco"><img src="https://holopin.me/mastercoco" width="100%" alt="An image of @mastercoco's Holopin badges, which is a link to view their full Holopin profile"></a>
+</p>
+<p align="center"><sub>Holopin badges are digital stickers earned for taking part in open-source events like Hacktoberfest.</sub></p>
+
+## 🤝 Connect with me
+
+<p align="center">
+  <a href="https://somethingarjun-portfolio.vercel.app/"><img src="assets/social-portfolio.svg" width="44" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/somethingarjun"><img src="assets/social-linkedin.svg" width="44" alt="LinkedIn"></a>
+  <a href="mailto:arjun.bhard18@gmail.com"><img src="assets/social-email.svg" width="44" alt="Email"></a>
+  <a href="https://leetcode.com/u/somethingarjun/"><img src="assets/social-leetcode.svg" width="44" alt="LeetCode"></a>
+  <a href="https://www.codechef.com/users/arjun_bhardwaj"><img src="assets/social-codechef.svg" width="44" alt="CodeChef"></a>
+  <a href="https://www.kaggle.com/somethingarjun"><img src="assets/social-kaggle.svg" width="44" alt="Kaggle"></a>
+  <a href="https://www.youtube.com/@somethingarjun"><img src="assets/social-youtube.svg" width="44" alt="YouTube"></a>
+  <a href="https://x.com/master_coco18"><img src="assets/social-x.svg" width="44" alt="X (Twitter)"></a>
+  <a href="https://www.instagram.com/somethingarjun/"><img src="assets/social-instagram.svg" width="44" alt="Instagram"></a>
+  <a href="https://www.behance.net/arjunbhardwaj"><img src="assets/social-behance.svg" width="44" alt="Behance"></a>
+  <a href="https://open.spotify.com/user/nevb5om053xvx2i1657nus40l"><img src="assets/social-spotify.svg" width="44" alt="Spotify"></a>
+  <a href="https://paypal.me/coolarjun"><img src="assets/social-paypal.svg" width="44" alt="Support me on PayPal"></a>
+</p>
+
+<p align="center"><sub>🤑 Like my work? You can support me by donating @ <a href="https://paypal.me/coolarjun">my PayPal :)</a></sub></p>
+
+<p align="center"><i>may the code be with you</i> ✨</p>
