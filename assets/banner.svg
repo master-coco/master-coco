@@ -76,9 +76,9 @@ text{font-family:Poppins, 'Segoe UI', Helvetica, Arial, sans-serif;}
 </g>
 <rect x="1" y="1" width="1198" height="538" rx="32" fill="none" stroke="url(#border)" stroke-width="1.5"/>
 <g class="eyebrow-g">
-<circle class="ring" cx="418.3" cy="76" r="5" fill="none" stroke="#ffdb70" stroke-width="2"/>
-<circle class="dot" cx="418.3" cy="76" r="5" fill="#ffdb70"/>
-<text x="435.3" y="82" class="eyebrow">somethingarjun-portfolio.vercel.app</text>
+<circle class="ring" cx="464.0" cy="76" r="5" fill="none" stroke="#ffdb70" stroke-width="2"/>
+<circle class="dot" cx="464.0" cy="76" r="5" fill="#ffdb70"/>
+<text x="481.0" y="82" class="eyebrow">somethingarjun.vercel.app</text>
 </g>
 <g class="core">
 <text x="600.0" y="178" text-anchor="middle" class="name">Arjun Bhardwaj</text>
