@@ -1,0 +1,33 @@
+name: Refresh coding stats cards
+
+on:
+  schedule:
+    - cron: '45 18 * * *'  # every day at 00:15 IST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the profile repo
+        uses: actions/checkout@v5
+
+      - name: Redraw the cards with live LeetCode and CodeChef numbers
+        run: python3 update_stats.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit the refreshed cards
+        run: |
+          if git diff --quiet -- assets; then
+            echo "Cards are already up to date"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/coding-kpis.svg assets/coding-leetcode.svg assets/coding-codechef.svg assets/coding-stats.json
+          git commit -m "Refresh coding stats cards"
+          git push
