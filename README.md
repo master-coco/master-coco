@@ -59,7 +59,10 @@ A passionate project manager and full stack developer from India. As a Computer 
   <a href="https://leetcode.com/u/somethingarjun/"><img src="assets/coding-leetcode.svg" width="49%" alt="LeetCode stats for @somethingarjun"></a>
   <a href="https://www.codechef.com/users/arjun_bhardwaj"><img src="assets/coding-codechef.svg" width="49%" alt="CodeChef stats for @arjun_bhardwaj"></a>
 </p>
-<p align="center"><sub>🟢 Live profile sync: these cards refresh every day from LeetCode and CodeChef</sub></p>
+<p align="center">
+  <a href="https://github.com/master-coco?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=master-coco&show_icons=true&include_all_commits=true&hide=prs,contribs&rank_icon=github&bg_color=1e1e1f&title_color=ffdb70&icon_color=ffdb70&text_color=d6d6d6&border_color=383838&ring_color=ffdb70&border_radius=18" height="150" alt="Arjun Bhardwaj's GitHub stats: stars earned, all-time commits and issues"></a>
+</p>
+<p align="center"><sub>🟢 Live profile sync: these cards update themselves from LeetCode, CodeChef and GitHub</sub></p>
 
 ## 🛠️ Featured Projects
 
@@ -132,16 +135,18 @@ A passionate project manager and full stack developer from India. As a Computer 
   <a href="https://somethingarjun.vercel.app/"><img src="assets/social-portfolio.svg" width="44" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/somethingarjun"><img src="assets/social-linkedin.svg" width="44" alt="LinkedIn"></a>
   <a href="mailto:arjun.bhard18@gmail.com"><img src="assets/social-email.svg" width="44" alt="Email"></a>
+  <a href="https://discord.com/channels/@me" title="Discord: somethingarjun"><img src="assets/social-discord.svg" width="44" alt="Discord: somethingarjun"></a>
   <a href="https://leetcode.com/u/somethingarjun/"><img src="assets/social-leetcode.svg" width="44" alt="LeetCode"></a>
   <a href="https://www.codechef.com/users/arjun_bhardwaj"><img src="assets/social-codechef.svg" width="44" alt="CodeChef"></a>
   <a href="https://www.kaggle.com/somethingarjun"><img src="assets/social-kaggle.svg" width="44" alt="Kaggle"></a>
-  <a href="https://www.youtube.com/@somethingarjun"><img src="assets/social-youtube.svg" width="44" alt="YouTube"></a>
   <a href="https://x.com/master_coco18"><img src="assets/social-x.svg" width="44" alt="X (Twitter)"></a>
   <a href="https://www.instagram.com/somethingarjun/"><img src="assets/social-instagram.svg" width="44" alt="Instagram"></a>
   <a href="https://www.behance.net/arjunbhardwaj"><img src="assets/social-behance.svg" width="44" alt="Behance"></a>
   <a href="https://open.spotify.com/user/nevb5om053xvx2i1657nus40l"><img src="assets/social-spotify.svg" width="44" alt="Spotify"></a>
   <a href="https://paypal.me/coolarjun"><img src="assets/social-paypal.svg" width="44" alt="Support me on PayPal"></a>
 </p>
+
+<p align="center"><sub>💬 Add me on Discord: <b>somethingarjun</b></sub></p>
 
 <p align="center"><sub>🤑 Like my work? You can support me by donating @ <a href="https://paypal.me/coolarjun">my PayPal :)</a></sub></p>
 
