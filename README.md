@@ -1,14 +1,14 @@
-<!-- Profile README for github.com/master-coco, styled after https://somethingarjun-portfolio.vercel.app -->
+<!-- Profile README for github.com/master-coco, styled after https://somethingarjun.vercel.app -->
 
 <p align="center">
-  <a href="https://somethingarjun-portfolio.vercel.app/">
+  <a href="https://somethingarjun.vercel.app/">
     <img src="assets/banner.svg" width="100%" alt="Arjun Bhardwaj | Project Manager &amp; Full Stack Developer | Project Management Apprentice at Google, part of YouTube Trust &amp; Safety (GVO) | NorthCap University ’25 and UNF ’24 alumni">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://somethingarjun-portfolio.vercel.app/"><img src="assets/btn-portfolio.svg" height="44" alt="Portfolio"></a>
-  <a href="https://somethingarjun-portfolio.vercel.app/#resume"><img src="assets/btn-resume.svg" height="44" alt="Resume"></a>
+  <a href="https://somethingarjun.vercel.app/"><img src="assets/btn-portfolio.svg" height="44" alt="Portfolio"></a>
+  <a href="https://somethingarjun.vercel.app/#resume"><img src="assets/btn-resume.svg" height="44" alt="Resume"></a>
   <a href="https://www.linkedin.com/in/somethingarjun"><img src="assets/btn-linkedin.svg" height="44" alt="LinkedIn"></a>
   <a href="mailto:arjun.bhard18@gmail.com"><img src="assets/btn-email.svg" height="44" alt="Email"></a>
 </p>
@@ -22,7 +22,7 @@ A passionate project manager and full stack developer from India. As a Computer 
 - 🌱 I've majored in **Full Stack Development** and minored in **Project Management**
 - 👨‍💻 My public projects are available in [my repositories](https://github.com/master-coco?tab=repositories)
 - 📫 How to reach me: **arjun.bhard18@gmail.com**
-- 📄 Know about my experiences by checking my [resume](https://somethingarjun-portfolio.vercel.app/#resume) and [portfolio](https://somethingarjun-portfolio.vercel.app/#portfolio)
+- 📄 Know about my experiences by checking my [resume](https://somethingarjun.vercel.app/#resume) and [portfolio](https://somethingarjun.vercel.app/#portfolio)
 - ⚡ Fun fact: **I'm an expert at not waiting to become an expert :)**
 
 ## 🚀 What I'm doing
@@ -53,7 +53,7 @@ A passionate project manager and full stack developer from India. As a Computer 
 ## 📊 Coding & Open-Source Stats
 
 <p align="center">
-  <a href="https://somethingarjun-portfolio.vercel.app/#about"><img src="assets/coding-kpis.svg" width="100%" alt="LeetCode and CodeChef streaks, total problems solved and public repositories"></a>
+  <a href="https://somethingarjun.vercel.app/#about"><img src="assets/coding-kpis.svg" width="100%" alt="LeetCode and CodeChef streaks, total problems solved and public repositories"></a>
 </p>
 <p align="center">
   <a href="https://leetcode.com/u/somethingarjun/"><img src="assets/coding-leetcode.svg" width="49%" alt="LeetCode stats for @somethingarjun"></a>
@@ -65,7 +65,7 @@ A passionate project manager and full stack developer from India. As a Computer 
 
 <p align="center">
   <a href="https://github.com/master-coco/Major-Project-CSD402-"><img src="assets/project-cloudara.svg" width="49%" alt="Cloudara: full-stack cloud deployment platform (Final Year Capstone, CSD402)"></a>
-  <a href="https://somethingarjun-portfolio.vercel.app/"><img src="assets/project-portfolio.svg" width="49%" alt="Personal Portfolio Website"></a>
+  <a href="https://somethingarjun.vercel.app/"><img src="assets/project-portfolio.svg" width="49%" alt="Personal Portfolio Website"></a>
 </p>
 <p align="center">
   <a href="https://github.com/master-coco/CEN4010"><img src="assets/project-lego.svg" width="49%" alt="LEGO Inventory Management System (UNF CEN4010)"></a>
@@ -90,13 +90,13 @@ A passionate project manager and full stack developer from India. As a Computer 
 ## 🧰 Tech Stack
 
 <p align="center">
-  <a href="https://somethingarjun-portfolio.vercel.app/#resume"><img src="assets/skills.svg" width="100%" alt="Skills: Java, C/C++, Python, Bash, HTML5, CSS3, JavaScript, jQuery, Node.js, Express.js, Bootstrap, React, Figma, MySQL, MongoDB, Firebase, Git/GitHub, Microsoft Office, Power BI, Postman, Docker, AWS, GCP"></a>
+  <a href="https://somethingarjun.vercel.app/#resume"><img src="assets/skills.svg" width="100%" alt="Skills: Java, C/C++, Python, Bash, HTML5, CSS3, JavaScript, jQuery, Node.js, Express.js, Bootstrap, React, Figma, MySQL, MongoDB, Firebase, Git/GitHub, Microsoft Office, Power BI, Postman, Docker, AWS, GCP"></a>
 </p>
 
 ## 🏅 Certifications
 
 <p align="center">
-  <a href="https://somethingarjun-portfolio.vercel.app/#resume"><img src="assets/certs.svg" width="100%" alt="13 certifications, including AWS Academy, IBM SkillsBuild and four UNF Agile certificates, plus PMP, CAPM, Six Sigma Green Belt and McKinsey Forward in progress"></a>
+  <a href="https://somethingarjun.vercel.app/#resume"><img src="assets/certs.svg" width="100%" alt="13 certifications, including AWS Academy, IBM SkillsBuild and four UNF Agile certificates, plus PMP, CAPM, Six Sigma Green Belt and McKinsey Forward in progress"></a>
 </p>
 
 <details>
@@ -129,7 +129,7 @@ A passionate project manager and full stack developer from India. As a Computer 
 ## 🤝 Connect with me
 
 <p align="center">
-  <a href="https://somethingarjun-portfolio.vercel.app/"><img src="assets/social-portfolio.svg" width="44" alt="Portfolio"></a>
+  <a href="https://somethingarjun.vercel.app/"><img src="assets/social-portfolio.svg" width="44" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/somethingarjun"><img src="assets/social-linkedin.svg" width="44" alt="LinkedIn"></a>
   <a href="mailto:arjun.bhard18@gmail.com"><img src="assets/social-email.svg" width="44" alt="Email"></a>
   <a href="https://leetcode.com/u/somethingarjun/"><img src="assets/social-leetcode.svg" width="44" alt="LeetCode"></a>

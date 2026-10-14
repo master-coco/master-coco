@@ -2,7 +2,7 @@
 """Refreshes the live "Coding & Open-Source Stats" cards in README.md.
 
 Pulls live LeetCode and CodeChef numbers (the same sources as the About tab on
-https://somethingarjun-portfolio.vercel.app), works out today's streaks and
+https://somethingarjun.vercel.app), works out today's streaks and
 redraws three SVG cards in the portfolio's dark and gold style:
 
   assets/coding-kpis.svg      the four headline tiles
@@ -32,7 +32,7 @@ STATE_FILE = os.path.join(ASSETS, "coding-stats.json")
 LEETCODE_USER = "somethingarjun"
 CODECHEF_USER = "arjun_bhardwaj"
 GITHUB_USER = "master-coco"
-SITE = "https://somethingarjun-portfolio.vercel.app"
+SITE = "https://somethingarjun.vercel.app"
 IST = datetime.timezone(datetime.timedelta(hours=5, minutes=30))
 
 # Streaks go up by one every day from these anchors, exactly like STREAK_ANCHORS
