@@ -1,19 +1,19 @@
 {
   "codechef": {
-    "fetchedAt": "2026-11-24T09:34:59+05:30",
+    "fetchedAt": "2026-11-25T08:16:52+05:30",
     "solved": 978
   },
   "github": {
-    "fetchedAt": "2026-11-24T09:34:59+05:30",
+    "fetchedAt": "2026-11-25T08:16:52+05:30",
     "public_repos": 19
   },
   "leetcode": {
     "badges": 48,
     "easy": 335,
-    "fetchedAt": "2026-11-24T09:34:59+05:30",
+    "fetchedAt": "2026-11-25T08:16:52+05:30",
     "hard": 185,
     "medium": 590,
-    "ranking": 25657,
+    "ranking": 25589,
     "solved": 1110
   },
   "streaks": {
@@ -27,8 +27,8 @@
         "2026-10-13"
       ]
     },
-    "codechef": 1174,
-    "date": "2026-11-24",
-    "leetcode": 999
+    "codechef": 1175,
+    "date": "2026-11-25",
+    "leetcode": 1000
   }
 }
